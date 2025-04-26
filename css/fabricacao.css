@@ -1,0 +1,41 @@
+.fabricacao {
+
+    
+    width: 100vw;
+    display: flex;
+    margin-top: 4vw;
+}
+
+.text_fabri {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    padding-top: 4vw;
+}
+
+.text_fabri h2 {
+    font-family: NeueMachina;
+    color: rgb(41, 41, 41);
+    font-size: 3.2vw;
+    margin-left: 6.5vw;
+}
+
+.text_fabri p {
+    width: 80%;
+    font-family: Garet;
+    margin-left: 7vw;
+    font-size: 1.6vw;
+    margin-top: .5vw;
+}
+
+.img_fabri {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+}
+
+.img_fabri img {
+    width: 32vw;
+    height: 28vw;
+    border-radius: 10px;
+}
