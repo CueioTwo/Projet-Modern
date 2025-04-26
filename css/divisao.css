@@ -1,0 +1,10 @@
+.divi{
+    margin-top: 1vw;
+    width: 100vw;
+    height: 14vw;
+    background-image: url(../image/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+

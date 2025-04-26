@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+
+#logo{
+    width: 3vw;
+}
+
+.logo_titulo{
+    width: 21vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: amsterdam;
+    font-size: .65vw;
+}
+
+nav{
+    display: flex;
+    height: 4vw;
+    align-items: center;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    width: 63vw;
+    align-items: center;
+    font-size: 1.3vw;
+    font-family: Garet;
+    margin-left: 2vw;
+
+}
+
+nav li:hover{
+    color: rgb(60, 60, 60);
+}
+
+#menu{
+    margin-left: 7vw;
+    font-size: 2.5vw;
+    display: none;
+}

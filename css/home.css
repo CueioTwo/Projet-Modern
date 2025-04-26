@@ -1,0 +1,26 @@
+.home{
+    background-image: url(../image/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 43vw;
+}
+
+.text_home{
+    padding-top: 10vw;
+    padding-left: 7vw;
+}
+
+.home h2{
+    font-family: NeueMachina;
+    color: aliceblue;
+    font-size: 2.5vw;
+    padding-bottom: .7vw;
+}
+
+
+.home p{
+    font-family: Garet;
+    color: aliceblue;
+    font-size: 1.3vw;
+}
